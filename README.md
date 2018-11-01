@@ -89,13 +89,13 @@
 首先咋们开始在网站上找各种接口，那我这边找了一个百度贴吧的post接口
 
 #### **请求头**
-![贴吧post请求图 --- 请求头](http://img.blog.csdn.net/20171220015149066?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![贴吧post请求图 --- 请求头](https://img-blog.csdn.net/20171220015149066?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 #### **请求值**
-![贴吧post请求图 --- 请求值](http://img.blog.csdn.net/20171220015809270?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![贴吧post请求图 --- 请求值](https://img-blog.csdn.net/20171220015809270?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 #### **返回值**
-![贴吧post请求图 --- 返回值](http://img.blog.csdn.net/20171220015854899?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![贴吧post请求图 --- 返回值](https://img-blog.csdn.net/20171220015854899?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 -------------------
 
@@ -125,7 +125,7 @@
 ```
 跑服务试试？（这里是从8020端口开启的服务器）
 
-![ajax请求](http://img.blog.csdn.net/20171220020646813?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![ajax请求](https://img-blog.csdn.net/20171220020646813?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 哇塞通啦，200诶！我啥都没操作只是写了个$.ajax就通了呀？通个毛......
   
@@ -149,11 +149,11 @@ Github：https://github.com/gs3170981/nginx_quick
 
   这里我内置了nginx，开不开心。
 
-![目录结构](http://img.blog.csdn.net/20171220022231579?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![目录结构](https://img-blog.csdn.net/20171220022231579?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 2）打开server.js，里面大致内容是这样的
 
-![配置内容](http://img.blog.csdn.net/20171220022430307?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![配置内容](https://img-blog.csdn.net/20171220022430307?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 3）如果你了解过或曾经配过nginx，那你一定很鸡冻，没错，这里呈现的就是配置项，意味着以后管理配置文件只需要修改这儿就OK了，因为有注释我就不一一解释了。
 **注意'/'别写反了，不然会被转义报错**
@@ -168,7 +168,7 @@ Github：https://github.com/gs3170981/nginx_quick
 
 如果cmd没报错的话，你的文件结构应该变成如此了
 
-![文件结构](http://img.blog.csdn.net/20171220103601770?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![文件结构](https://img-blog.csdn.net/20171220103601770?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 2）那么请再执行
 
@@ -184,11 +184,11 @@ nginx是服务器，所以开启的port必须为js文件中设置的port
 
   打开127.0.0.1:8016
 
-![8016服务器](http://img.blog.csdn.net/20171220104538663?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![8016服务器](https://img-blog.csdn.net/20171220104538663?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 我擦，咋啥都没显示？不是js中都输出了吗？我们来看看控制台
 
-![请求](http://img.blog.csdn.net/20171220105036139?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![请求](https://img-blog.csdn.net/20171220105036139?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 汗，还是跨域了，不过如果你是老手的话，应该已经意识到为什么开始要讲解下什么是正向/反向代理，因为还少一步
 
@@ -225,11 +225,11 @@ A、B是相互认识并在同一服务器上的，B代理了C，则相当于同�
 
 好，保存刷新一下
 
-![再请求](http://img.blog.csdn.net/20171220105930065?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![再请求](https://img-blog.csdn.net/20171220105930065?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 天啦噜，好像成功呢了，再看下请求
 
-![正确返回](http://img.blog.csdn.net/20171220110021837?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![正确返回](https://img-blog.csdn.net/20171220110021837?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWNreV9Mb3Zl/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 没有报错，正确返回了呢！
 
@@ -239,7 +239,7 @@ A、B是相互认识并在同一服务器上的，B代理了C，则相当于同�
 
 该文章运用到了node（fs模块）想多了解的，请移步下方链接查看
 
-CSDN：http://blog.csdn.net/Mcky_Love/article/details/78679291
+CSDN：https://blog.csdn.net/Mcky_Love/article/details/78679291
 
 掘金：https://juejin.im/post/5a28aead6fb9a0450c494bc6
 
